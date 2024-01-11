@@ -1,2 +1,2 @@
 # lojavirtual
-loja virtual de sungas
+texto alterado no repositorio local
